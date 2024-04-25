@@ -3,7 +3,7 @@ header{
     padding: 6px;
     margin: 0% ;
     background-color: black;
-    color:gold
+    color: rgb(232, 155, 39);
 
 }
 .tittle {
@@ -12,8 +12,22 @@ header{
 }
 
 nav {
-    background-color: rgb(244, 233, 233);
+    background-color: rgb(232, 155, 39);
+     ;
     
+    
+}
+.texto {
+    background-color: black;
+    color: rgb(232, 155, 39) ;
+    padding: 10px;
+    
+    
+}
+.servicios {
+    text-align: center;
+    padding:30px
+
     
 }
    
